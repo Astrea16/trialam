@@ -657,6 +657,7 @@ textarea.input {
   padding-block: .625rem
 }
 .bottom-header__logo {
+  aspect-ratio: 114/25;
   flex: 0 0 7.125rem;
   width: 7.125rem;
   z-index: 5
